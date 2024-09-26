@@ -1,0 +1,86 @@
+
+    
+
+[
+    {
+        "name": "HTML5",
+        "image": "html"
+    },
+
+    {
+        "name": "CSS3",
+        "image": "css"
+    },
+
+    {
+        "name": "Tailwind",
+        "image": "tailwind"
+    },
+
+    {
+        "name": "JavaScript",
+        "image": "js"
+    },
+
+    {
+        "name": "React.js",
+        "image": "react"
+    },
+
+    {
+        "name": "Next.js",
+        "image": "next"
+    },
+
+    {
+        
+        "name": "TypeScript",
+        "image": "typescript"
+    },
+
+    {
+        "name": "Node.js",
+        "image": "node"
+    },
+
+    {
+        "name": "Python",
+        "image": "python"
+    },
+
+    {
+        "name": "Django",
+        "image": "django"
+    },
+
+    {
+        "name": "SQL",
+        "image": "sql"
+    },
+
+    {
+        "name": "MongoDB",
+        "image": "mongodb"
+    },
+
+    {
+        "name": "Linux",
+        "image": "linux"
+    },
+
+    {
+        "name": "Material UI",
+        "image": "materialUi"
+    },
+
+    {
+        "name": "Git",
+        "image": "git"
+    },
+
+    {
+        "name": "Webpack",
+        "image": "webpack"
+    }
+]
+    
