@@ -4,7 +4,7 @@
         "description": "HeyCart is an e-commerce website that sells grocery items. On HeyCart, buyer can do login/signup, choose items from multiple categories, add these products to the cart and go for the checkout.",
         "image": "heyCartImage",
         "technologies": "React.js, Redux, HTML, CSS, Express.js, MongoDB, JWT",
-        "githubLink": "",
+        "githubLink": "https://github.com/anildabas001/heycart-mern",
         "liveLink": ""
     },
 
@@ -12,17 +12,17 @@
         "projectName": "Web Portfolio",
         "description": "This is my portfolio website developed to showcase my skills, experiences and projects.",
         "image": "myPortfolio",
-        "technologies": "Next.js, React.js, Material UI",
-        "githubLink": "",
+        "technologies": "Next.js, React.js, Typescript, Material UI",
+        "githubLink": "https://github.com/anildabas001/portfolio_v2",
         "liveLink": ""
     },
 
     {
         "projectName": "TripTales",
-        "description": "HeyCart is an e-commerce website that sells grocery items. On HeyCart, buyer can do login/signup, choose items from multiple categories, add these products to the cart and go for the checkout.",
-        "image": "heyCartImage",
-        "technologies": "React.js, Redux, HTML, CSS, Express.js, MongoDB, JWT",
-        "githubLink": "",
+        "description": "TripTales is a travle blogging website where a users can share there travel experiences and read about others.",
+        "image": "tripTales",
+        "technologies": "Next.js, React.js, Material UI, Typescript, PostgreSQL, NextAuth, Cloudinary",
+        "githubLink": "https://github.com/anildabas001/dabas_travel_blogs",
         "liveLink": ""
     }
 ]

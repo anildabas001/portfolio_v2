@@ -9,7 +9,7 @@ import MobileHeader from './mobileHeader';
 import NavLink from './navLink';
 import Link from 'next/link';
 
-const navItems = [{name: 'About', link: 'about'}, {name: 'Technical Skills', link: 'technicalSkills'} , {name: 'Projects', link: 'Projects'}, {name: 'Contact', link: 'contact'}, {name: 'Resume', link: 'Resume'}];
+const navItems = [{name: 'About Me', link: 'about'}, {name: 'Technical Skills', link: 'technicalSkills'}, {name: 'Projects', link: 'projects'}, {name: 'Blogs', link: 'blogs'}, {name: 'Contact', link: 'contact'},];
 
 export default async function Header() {
   return (
